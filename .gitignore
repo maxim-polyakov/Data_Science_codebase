@@ -1,0 +1,6 @@
+DataSets/*
+.idea/*
+.ipynb_checkpoints/*
+Pictures/*
+Models/*
+Tokenizers/*
